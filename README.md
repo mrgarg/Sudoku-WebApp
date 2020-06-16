@@ -1,6 +1,8 @@
 # Sudoku-Solver
 solve the sudoku which is a partially filled 9x9 2D array with the help of recursion and backtracking
 
+Click [here](https://mrgarg.github.io/Sudoku-WebApp) to solve Sudouku.
+
 input is given in the form :-
 - 1           ## number of test cases 
 - 3 0 6 5 0 8 4 0 0 
